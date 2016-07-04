@@ -3,7 +3,10 @@
 ## Serveur / Base de données
 - [ ] Importer la base de données
 - [ ] Transférer les fichiers sur le serveur
+
 OU
+
+
 - [ ] Configurer le déploiement via DeployHQ
 - [ ] Préciser les fichiers de config (wp-config.php et .htaccess pour Wordpress)
 
