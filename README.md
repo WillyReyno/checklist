@@ -1,8 +1,12 @@
 # Checklist de mise en ligne d'un projet
 
 ## Serveur / Base de données
-- [ ] Transférer les fichiers sur le serveur
 - [ ] Importer la base de données
+- [ ] Transférer les fichiers sur le serveur
+OU
+- [ ] Configurer le déploiement via DeployHQ
+- [ ] Préciser les fichiers de config (wp-config.php et .htaccess pour Wordpress)
+
 
 ## Site web (général) 
 
