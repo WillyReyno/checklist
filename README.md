@@ -1,1 +1,30 @@
 # checklist
+- [ ] Transférer les fichiers sur le serveur
+- [ ] Importer la base de données
+- [ ] Corriger les permaliens
+- [ ] Générer les favicons (<a href="realfavicongenerator.net">Real Favicon Generator</a>)
+- [ ] Modifier le css pour mettre les bonnes infos du theme
+- [ ] Rajouter le screenshot.png du thème
+- [ ] Décocher la non-indexation du site par les moteurs de
+- [ ] recherche
+- [ ] Corriger les erreurs de la console
+- [ ] Designer la page WP-login
+- [ ] Utiliser WP Smush pour optimiser la taille de toutes les
+- [ ] images
+- [ ] Passer toutes les images du dossiers /uploads dans
+- [ ] ImageOptim
+- [ ] Installer Google Analytics
+- [ ] Relier Google Analytics à Search Console (webmaster tools)
+- [ ] Générer le sitemap du site et le soumettre à Google
+- [ ] Bannir les spams de Google Analytics
+- [ ] Créer les notifications de formulaire (admin + client)
+- [ ] Vérifier l'ergonomie et le pagespeed (<a href= "https://testmysite.thinkwithgoogle.com/" rel="noreferrer" target="_blank">Test My Site de Google/</a>)
+- [ ] Vérifier le responsive du site
+- [ ] Ajouter html5.js et Outdated Browser
+- [ ] Créer un compte utilisateur pour le client
+- [ ] Masquer la barre d'édition Wordpress
+- [ ] Supprimer les rôles inutiles
+- [ ] Créer un rôle spécifique au client pour masquer ce qui n'est
+- [ ] pas nécessaire sur le back-office
+- [ ] Faire les redirections 301 si c'est une refonte
+- [ ] Optimiser le chargement des pages avec gzip
