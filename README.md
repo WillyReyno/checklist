@@ -2,15 +2,13 @@
 - [ ] Transférer les fichiers sur le serveur
 - [ ] Importer la base de données
 - [ ] Corriger les permaliens
-- [ ] Générer les favicons (<a href="realfavicongenerator.net">Real Favicon Generator</a>)
+- [ ] Générer les favicons (<a href="realfavicongenerator.net" target="_blank">Real Favicon Generator</a>)
 - [ ] Modifier le css pour mettre les bonnes infos du theme
 - [ ] Rajouter le screenshot.png du thème
-- [ ] Décocher la non-indexation du site par les moteurs de
-- [ ] recherche
+- [ ] Décocher la non-indexation du site par les moteurs de recherche
 - [ ] Corriger les erreurs de la console
 - [ ] Designer la page WP-login
-- [ ] Utiliser WP Smush pour optimiser la taille de toutes les
-- [ ] images
+- [ ] Utiliser WP Smush pour optimiser la taille de toutes les images
 - [ ] Passer toutes les images du dossiers /uploads dans
 - [ ] ImageOptim
 - [ ] Installer Google Analytics
