@@ -40,6 +40,7 @@ OU
 ### Plugins
 
 - [ ] Utiliser WP Smush pour optimiser la taille de toutes les images
+- [ ] Installer WP3 Total Cache pour la mise en cache des pages
 
 ## Optimisation du site (ergonomie, chargement...)
 
