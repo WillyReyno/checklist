@@ -48,7 +48,8 @@ OU
 - [ ] Installer Google Analytics
 - [ ] Relier Google Analytics à Search Console (webmaster tools)
 - [ ] Générer le sitemap du site et le soumettre à Google
-- [Spam Referrals](http://help.analyticsedge.com/spam-filter/definitive-guide-to-removing-google-analytics-spam/)
+
+### [Spam Referrals](http://help.analyticsedge.com/spam-filter/definitive-guide-to-removing-google-analytics-spam/)
 - [ ] Utiliser une propriété -2 pour limiter les spams
 - [ ] Ajouter le filtre de l'hostname
 - [ ] Ajouter les 4 filtres de Spam Referrals
