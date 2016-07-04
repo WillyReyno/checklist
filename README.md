@@ -22,7 +22,7 @@
 - [ ] Créer un compte utilisateur pour le client
 - [ ] Masquer la barre d'édition Wordpress
 - [ ] Supprimer les rôles inutiles
-- [ ] Créer un rôle spécifique au client pour masquer ce qui n'est
-- [ ] pas nécessaire sur le back-office
-- [ ] Faire les redirections 301 si c'est une refonte
-- [ ] Optimiser le chargement des pages avec gzip
+- [ ]Créer un rôle spécifique au client pour masquer ce qui n'est
+- [ ]pas nécessaire sur le back-office
+- [ ] Faire les redirections 301 si c'est une refonte
+- [ ] Vérifier que le site utilise bien gzip (<a href="https://varvy.com/tools/gzip/" target="_blank">Gzip Compression Test</a>)
