@@ -41,7 +41,7 @@ OU
 ## Optimisation du site (ergonomie, chargement...)
 
 - [ ] Passer toutes les images du dossiers /uploads dans ImageOptim
-- [ ] Vérifier l'ergonomie et le pagespeed ([Test My Site](https://testmysite.thinkwithgoogle.com)
+- [ ] Vérifier l'ergonomie et le pagespeed ([Test My Site](https://testmysite.thinkwithgoogle.com))
 - [ ] Vérifier que le site utilise bien gzip (<a href="https://varvy.com/tools/gzip/" target="_blank">Gzip Compression Test</a>)
 
 ## Analytics
